@@ -1,0 +1,10 @@
+iteration 1: Time:0.01, TrainLoss: 2.3389, TrainAccu: 0.5000, TestLoss: 0.9633, TestAccu: 0.5000
+iteration 2: Time:0.68, TrainLoss: inf, TrainAccu: 0.5000, TestLoss: inf, TestAccu: 0.5000
+iteration 3: Time:1.30, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 4: Time:1.92, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 5: Time:2.54, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 6: Time:3.16, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 7: Time:3.78, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 8: Time:4.40, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 9: Time:5.05, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
+iteration 10: Time:5.73, TrainLoss: nan, TrainAccu: 0.5000, TestLoss: nan, TestAccu: 0.5000
